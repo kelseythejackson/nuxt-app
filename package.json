@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-common-types": "../fortawesome-fontawesome-common-types-6.2.0.tgz",
+    "@fortawesome/fontawesome-svg-core": "../fortawesome-fontawesome-svg-core-6.2.0.tgz",
+    "@fortawesome/pro-solid-svg-icons": "../fortawesome-pro-solid-svg-icons-6.2.0.tgz",
+    "@fortawesome/sharp-solid-svg-icons": "../fortawesome-sharp-solid-svg-icons-6.2.0.tgz",
+    "@fortawesome/vue-fontawesome": "^3.0.1"
+  }
+}
